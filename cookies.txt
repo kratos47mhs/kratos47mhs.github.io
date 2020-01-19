@@ -1,4 +1,0 @@
-#  Website Copier Cookie File
-# This file format is compatible with Netscape cookies
-bootstraplovers.com	TRUE	/	FALSE	1999999999	PHPSESSID	1c64b053045c2597cdc83be8af309ccc
-
