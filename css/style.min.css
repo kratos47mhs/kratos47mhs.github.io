@@ -11,7 +11,7 @@ body {
   display: flex;
   color: #0d0208;
   background-color: #00ff41;
-  font-family: "Press Start 2P", "Inconsolata";
+  font-family: "Press Start 2P", "monospace";
   font-size: 1.6em;
   font-weight: 400;
   letter-spacing: 0.0625em;
@@ -25,7 +25,7 @@ body {
 }
 a {
   font-weight: 700;
-  color: #000;
+  color: #0D0208;
   text-decoration: none;
 }
 a:focus,
@@ -37,7 +37,7 @@ p {
 }
 p a {
   font-weight: 400;
-  color: #000;
+  color: #0D0208;
   text-decoration: underline;
   text-underline-position: under;
 }
@@ -58,7 +58,7 @@ h6,
 .h4,
 .h5,
 .h6 {
-  font-family: "Inconsolata", sans-serif;
+  font-family: "monospace", sans-serif;
   color: #0d0208;
   font-weight: 500;
   font-variant-ligatures: common-ligatures;
@@ -109,7 +109,7 @@ pre {
 }
 code {
   display: inline-block;
-  background-color: #000;
+  background-color: #0D0208;
   color: #fefefe;
   padding: 0.4rem 0.8rem 0.4rem 0.8rem;
 }
@@ -127,7 +127,7 @@ table {
 }
 table td,
 table th {
-  border: 2px solid #000;
+  border: 2px solid #0D0208;
 }
 table tr:first-child th {
   border-top: 0;
